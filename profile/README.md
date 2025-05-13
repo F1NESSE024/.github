@@ -1,4 +1,6 @@
-# F1NESSE - 
+# F1NESSE
+Formula 1 Neuro-Enhanced System for Smart Execution
+
 
 <p align="center">
   <img src="logo_clean.png" alt="RU" width="200"/>
