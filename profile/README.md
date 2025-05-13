@@ -5,21 +5,9 @@
 </p>
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Installation & Setup](#installation--setup)
-  - [Start the Container](#start-the-container)
-  - [Start a Tmux Session](#start-a-tmux-session)
-  - [Activate the Car](#activate-the-car)
-  - [Activate Rviz](#activate-rviz)
-  - [Activate the Drive Package](#activate-the-drive-package)
-- [Editing the Drive Publisher](#editing-the-drive-publisher)
-- [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
 
 ---
-
-## Introduction
 
 ---
 
